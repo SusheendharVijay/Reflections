@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+you get a folder where you can store your program files, and with the .git folder which allows the use of git commands. it makes it easier to use github and other version control systems.
