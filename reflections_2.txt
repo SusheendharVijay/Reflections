@@ -5,3 +5,25 @@ you get a folder where you can store your program files, and with the .git folde
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it gives control over the commits we make, giving us more options. staging area is like a intermdeiste area of wokring directory and repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+using git diff and git diff --staged you have complete control over what youre commiting  online 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when im trying out a new feature or function, and im scared ill mess up the original progam if i try it out on it.
+
+How do the diagrams help you visualize the branch structure?
+give a clear sense of which branch im in, and also when i can commit properly.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+if two people work on different branches, now they can merge their work with ease, this makes it esasy for a lot of people to work on the same project easily and efficiently. resutl is that all the distinct changes, get merged. diagram helps to easily visualise the branches, thus preventing mistakes like losing commits. or unaccesible commits.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:
+git doesnt merge by guessing, so preventing compiling error, and it points out the area of conflcit too.
+
+cons:
+little bit cumbersome and time consuming to reslove conflicts manually.
