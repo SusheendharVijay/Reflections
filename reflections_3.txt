@@ -15,4 +15,5 @@ clones are used to download the forked repo onto to your local machine.
 braching is local to a distinct repo, somewhat analogous to forking but inside one repo.
 
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that you know what commits are i nyour system and what is online. which makes it easier for you to merge and update your files.
