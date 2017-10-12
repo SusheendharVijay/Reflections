@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+when multiple people need to work in the project 
+you can contribute from anyhwere
+code is protected from loss due to hardware failure
